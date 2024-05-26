@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 Creative Portfolio
 
 ![Home Section](./public/demo.gif)
@@ -133,3 +134,6 @@ The code defines two key parts for animations using Framer Motion. The `variants
 This project is licensed under the MIT License. You are allowed to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this project, subject to the conditions outlined in the MIT License.
 
 For more information, please refer to the [LICENSE](./LICENSE) file.
+=======
+# Profolio
+>>>>>>> origin/main
