@@ -38,31 +38,29 @@ export const projects = [
   },
 ]
 
-// 📱 Social media links: Update with your URLs and choose appropriate icons.
 export const socialLinks = [
   {
     name: 'GitHub',
-    url: 'https://github.com/AhmedMahamoud24', // Enter GitHub link.
+    url: 'https://github.com/AhmedMahamoud24', 
     icon: 'Github',
   },
   {
     name: 'Instagram',
-    url: '', // Enter GitHub link.
+    url: '',
     icon: 'Instagram',
   },
   {
     name: 'LinkedIn',
-    url: '', // Enter GitHub link.
+    url: 'https://www.linkedin.com/in/ahmed-m-85a539165/', 
     icon: 'LinkedIn',
   },
   {
     name: 'Blog',
-    url: '', // Enter GitHub link.
+    url: '', 
     icon: 'Blog',
   },
 ]
 
-// 🚀 Navigation data: Customize navigation labels and links as needed.
 export const navbarData = {
   navigator: [
     { name: 'Home' },
